@@ -1,0 +1,17 @@
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\bin\x86\Debug\net6.0-windows\dll_demo_csharp.exe
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\bin\x86\Debug\net6.0-windows\dll_demo_csharp.deps.json
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\bin\x86\Debug\net6.0-windows\dll_demo_csharp.runtimeconfig.json
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\bin\x86\Debug\net6.0-windows\dll_demo_csharp.dll
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\bin\x86\Debug\net6.0-windows\dll_demo_csharp.pdb
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\dll_demo_csharp.csproj.AssemblyReference.cache
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\dll_demo_csharp.Form1.resources
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\dll_demo_csharp.csproj.GenerateResource.cache
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\dll_demo_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\dll_demo_csharp.AssemblyInfoInputs.cache
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\dll_demo_csharp.AssemblyInfo.cs
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\dll_demo_csharp.csproj.CoreCompileInputs.cache
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\dll_demo_csharp.dll
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\refint\dll_demo_csharp.dll
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\dll_demo_csharp.pdb
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\dll_demo_csharp.genruntimeconfig.cache
+C:\Users\vlodi\source\repos\dll_demo_csharp\dll_demo_csharp\obj\x86\Debug\net6.0-windows\ref\dll_demo_csharp.dll

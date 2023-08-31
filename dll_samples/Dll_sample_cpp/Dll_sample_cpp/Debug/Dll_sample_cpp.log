@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  dll_sample.cpp
+  Создание кода...
+     Создается библиотека C:\Users\vlodi\source\repos\Dll_sample_cpp\Debug\Dll_sample_cpp.lib и объект C:\Users\vlodi\source\repos\Dll_sample_cpp\Debug\Dll_sample_cpp.exp
+  Dll_sample_cpp.vcxproj -> C:\Users\vlodi\source\repos\Dll_sample_cpp\Debug\Dll_sample_cpp.dll

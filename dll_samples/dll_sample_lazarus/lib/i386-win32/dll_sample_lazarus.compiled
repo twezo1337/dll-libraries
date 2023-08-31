@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1411536590"/>
+  <Params Value=" -MObjFPC -Scghi -WR -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\vlodi\OneDrive\Рабочий стол\dll_sample_lazarus\lib\i386-win32&quot; &quot;-FuC:\Users\vlodi\OneDrive\Рабочий стол\dll_sample_lazarus\&quot; &quot;-FUC:\Users\vlodi\OneDrive\Рабочий стол\dll_sample_lazarus\lib\i386-win32\&quot; &quot;-FEC:\Users\vlodi\OneDrive\Рабочий стол\dll_sample_lazarus\&quot; &quot;-oC:\Users\vlodi\OneDrive\Рабочий стол\dll_sample_lazarus\dll_sample_lazarus.dll&quot; dll_sample_lazarus.lpr"/>
+</CONFIG>

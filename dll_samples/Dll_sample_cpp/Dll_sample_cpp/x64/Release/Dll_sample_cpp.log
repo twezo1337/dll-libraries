@@ -1,0 +1,8 @@
+﻿  dll_sample.cpp
+     Создается библиотека C:\Users\vlodi\source\repos\Dll_sample_cpp\x64\Release\Dll_sample_cpp.lib и объект C:\Users\vlodi\source\repos\Dll_sample_cpp\x64\Release\Dll_sample_cpp.exp
+  Создание кода
+  0 of 4 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Dll_sample_cpp.vcxproj -> C:\Users\vlodi\source\repos\Dll_sample_cpp\x64\Release\Dll_sample_cpp.dll

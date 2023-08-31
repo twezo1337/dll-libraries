@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\vlodi\source\repos\dll_demo\dll_demo\main.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vlodi\source\repos\dll_demo\dll_demo\main.cpp(18,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vlodi\source\repos\dll_demo\dll_demo\main.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dll_demo.vcxproj -> C:\Users\vlodi\source\repos\dll_demo\Debug\dll_demo.exe
